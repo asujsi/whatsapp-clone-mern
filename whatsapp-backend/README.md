@@ -1,6 +1,0 @@
-![pic-1](https://github.com/asujsi/whatsapp-clone-mern/tree/master/clone-1.jpg?raw=true)
-![pic-2](https://github.com/asujsi/whatsapp-clone-mern/tree/master/clone-2.jpg?raw=true)
-![pic-3](https://github.com/asujsi/whatsapp-clone-mern/tree/master/clone-3.jpg?raw=true)
-![pic-4](https://github.com/asujsi/whatsapp-clone-mern/tree/master/clone-4.jpg?raw=true)
-![frontend](https://github.com/asujsi/whatsapp-clone-mern/tree/master/frontend.jpg?raw=true)
-![backend](https://github.com/asujsi/whatsapp-clone-mern/tree/master/backend.jpg?raw=true)
