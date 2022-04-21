@@ -1,2 +1,2 @@
 # whatsapp-clone-mern
-!![pics](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+!![pic-1](https://github.com/[username]/[reponame]/blob/[branch]/clone1.jpg?raw=true)
